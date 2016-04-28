@@ -18,7 +18,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[JP Simard](https://twitter.com/simjp)**: SourceKit and You - [Slides](https://speakerdeck.com/jpsim/sourcekit-and-you) - Video
 
-**[Etienne Studer](http://twitter.com/etiennestuder)**: Gradle and the Android Build Platform - [Slides](#) - Video
+**[Etienne Studer](http://twitter.com/etiennestuder)**: Gradle and the Android Build Platform - [Slides](https://www.appbuilders.ch/slides/Gradle_AppBuilders_2016.pdf) - Video
 
 **[Chris Lüscher](http://twitter.com/iA_Chris)**: iOS vs. Android: The Mobile OS Deathmatch - [Slides](#) - Video
 
