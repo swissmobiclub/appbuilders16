@@ -28,7 +28,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Lorica Claesson](https://www.linkedin.com/pub/lorica-claesson/1/b12/348)**: Designing apps for Android - [Slides](#) - Video
 
-**[Alexsander Akers](http://twitter.com/a2)**: Making Accessibility a Priority - [Slides](#) - Video
+**[Alexsander Akers](http://twitter.com/a2)**: Making Accessibility a Priority - [Slides](https://speakerdeck.com/a2/accessibility) - Video
 
 **[Enrique López Mañas](http://twitter.com/eenriquelopez)**: Automating Android Development - [Slides](#) - Video
 
