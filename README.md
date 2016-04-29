@@ -54,7 +54,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[John Sundell](https://twitter.com/johnsundell)**: Dynamic, native, backend-driven UIs - [Slides](http://de.slideshare.net/JohnSundell/dynamic-native-backenddriven-uis-app-builders-2016) - Video
 
-**[Damian Mehers](http://twitter.com/DamianMehers)**: When buzzwords collide: Combining Wearables and Virtual Reality on Android - [Slides](#) - Video
+**[Damian Mehers](http://twitter.com/DamianMehers)**: When buzzwords collide: Combining Wearables and Virtual Reality on Android - [Slides](https://www.appbuilders.ch/slides/2016.04.26-When-buzzwords-collide-%20Wearables-and-VR.pdf) - Video
 
 **[Orta Therox](http://twitter.com/orta)**: Moving to OSS by Default - [Slides]() - Video
 
