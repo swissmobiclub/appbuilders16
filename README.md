@@ -60,7 +60,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Vitaly Friedman](https://twitter.com/smashingmag/)**: Cutting-Edge Responsive Web Design - [Slides](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end) - Video
 
-**[Ivan Morgillo](https://twitter.com/hamen)**: Android Reactive Programming with RxJava - [Slides](#) - Video
+**[Ivan Morgillo](https://twitter.com/hamen)**: Android Reactive Programming with RxJava - [Slides](https://github.com/hamen/rxjava-essentials/tree/master/slides/appbuilders2016) - Video
 
 **[Natasha Murashev](http://twitter.com/natashatherobot)**: Practical Protocol-Oriented Programming in Swift - [Slides](#) - Video
 
