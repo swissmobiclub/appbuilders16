@@ -46,7 +46,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Nicolas Seriot](https://twitter.com/nst021)**: Error Handling - [Slides](http://seriot.ch/resources/talks_papers/20160426_error_handling.pdf) - Video
 
-**[Andreas Vourkos](https://twitter.com/vourkosa)**: Building Overlay SDKs - the two-minute integration challenge - [Slides](#) - Video
+**[Andreas Vourkos](https://twitter.com/vourkosa)**: Building Overlay SDKs - the two-minute integration challenge - [Slides](https://speakerdeck.com/vourkosa/building-overlay-sdks-on-android-the-two-minute-integration-challenge) - Video
 
 **[Anastasiia Voitova](http://twitter.com/vixentael)**: Upgrading approaches to the secure mobile architectures - [Slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) - Video
 
