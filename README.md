@@ -32,7 +32,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Enrique López Mañas](http://twitter.com/eenriquelopez)**: Automating Android Development - [Slides](#) - Video
 
-**[Junior B.](https://twitter.com/bontoJR)**: Asynchronous Programming with RxSwift - [Slides](#) - Video
+**[Junior B.](https://twitter.com/bontoJR)**: Asynchronous Programming with RxSwift - [Slides](https://www.appbuilders.ch/slides/Async%20Programming%20with%20RxSwift.pdf) - Video
 
 **[Tal Heskia](https://twitter.com/uepaa)**: How proximity technologies are revolutionising the mobile experience - [Slides](#) - Video
 
