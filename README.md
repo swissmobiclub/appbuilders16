@@ -42,7 +42,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 ### 26th April
 
-**[Kevin Goldsmith](https://twitter.com/KevinGoldsmith)**: Failures - [Slides](#) - Video
+**[Kevin Goldsmith](https://twitter.com/KevinGoldsmith)**: Failures - [Slides](https://www.appbuilders.ch/slides/failure.pdf) - Video
 
 **[Nicolas Seriot](https://twitter.com/nst021)**: Error Handling - [Slides](http://seriot.ch/resources/talks_papers/20160426_error_handling.pdf) - Video
 
@@ -64,7 +64,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Natasha Murashev](http://twitter.com/natashatherobot)**: Practical Protocol-Oriented Programming in Swift - [Slides](#) - Video
 
-**[Sangsoo Nam](https://twitter.com/sangsoonam)**: Application Architecture for Scaled Agile - [Slides](#) - Video
+**[Sangsoo Nam](https://twitter.com/sangsoonam)**: Application Architecture for Scaled Agile - [Slides](https://www.appbuilders.ch/slides/Application%20Architecture%20for%20Scaled%20Agile%20for%20App%20Builders.pdf) - Video
 
 **[Sally Shepard](https://twitter.com/mostgood)**: Developing for Apple TV - [Slides](#) - Video
 
