@@ -26,7 +26,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](#) - Video
 
-**[Lorica Claesson](https://www.linkedin.com/pub/lorica-claesson/1/b12/348)**: Designing apps for Android - [Slides](#) - Video
+**[Lorica Claesson](https://www.linkedin.com/pub/lorica-claesson/1/b12/348)**: Designing apps for Android - [Slides](http://www.slideshare.net/LoricaClaesson/designing-apps-for-android) - Video
 
 **[Alexsander Akers](http://twitter.com/a2)**: Making Accessibility a Priority - [Slides](https://speakerdeck.com/a2/accessibility) - Video
 
