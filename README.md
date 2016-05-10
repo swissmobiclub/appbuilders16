@@ -8,7 +8,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 ### 25th April
 
-**[Steve Scott](https://twitter.com/macdevnet)**: The Selfie Developer - [Slides](#) - Video
+**[Steve Scott](https://twitter.com/macdevnet)**: The Selfie Developer - [Slides](https://www.appbuilders.ch/slides/TheSelfieDeveloper.pdf) - Video
 
 **[Vikram Kriplaney](http://twitter.com/krips)** and **[Sebastian Vieira](http://twitter.com/seviu)**: Face-Off: iOS for Android Developers, Android for iOS Developers - [Slides](https://speakerdeck.com/seviu/face-off-android-vs-ios) - Video
 
@@ -24,7 +24,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Marin Todorov](http://twitter.com/icanzilb)**: Non-technical ways to be a better developer - [Slides](https://speakerdeck.com/icanzilb/appbuilders-non-technical-ways-to-be-a-better-developer) - Video
 
-**[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](#) - Video
+**[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](https://www.appbuilders.ch/slides/Building%20cross-platform%20mobile%20apps%20with%20Xamarin.pdf) - Video
 
 **[Lorica Claesson](https://www.linkedin.com/pub/lorica-claesson/1/b12/348)**: Designing apps for Android - [Slides](http://www.slideshare.net/LoricaClaesson/designing-apps-for-android) - Video
 
