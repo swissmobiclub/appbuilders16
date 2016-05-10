@@ -62,7 +62,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Ivan Morgillo](https://twitter.com/hamen)**: Android Reactive Programming with RxJava - [Slides](https://github.com/hamen/rxjava-essentials/tree/master/slides/appbuilders2016) - Video
 
-**[Natasha Murashev](http://twitter.com/natashatherobot)**: Practical Protocol-Oriented Programming in Swift - [Slides](#) - Video
+**[Natasha Murashev](http://twitter.com/natashatherobot)**: Practical Protocol-Oriented Programming in Swift - [Slides](http://www.slideshare.net/natashatherobot/practial-protocolorientedprogramming) - Video
 
 **[Sangsoo Nam](https://twitter.com/sangsoonam)**: Application Architecture for Scaled Agile - [Slides](https://www.appbuilders.ch/slides/Application%20Architecture%20for%20Scaled%20Agile%20for%20App%20Builders.pdf) - Video
 
