@@ -48,7 +48,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Andreas Vourkos](https://twitter.com/vourkosa)**: Building Overlay SDKs - the two-minute integration challenge - [Slides](https://speakerdeck.com/vourkosa/building-overlay-sdks-on-android-the-two-minute-integration-challenge) - Video
 
-**[Anastasiia Voitova](http://twitter.com/vixentael)**: Upgrading approaches to the secure mobile architectures - [Slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) - Video
+**[Anastasiia Voitova](http://twitter.com/vixentael)**: Upgrading approaches to the secure mobile architectures - [Slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) - [Blog Post](https://medium.com/@vixentael/upgrading-approaches-to-the-secure-mobile-architectures-7a8fcb10d28a) - Video
 
 **[Sergi Martínez](https://twitter.com/SergiAndReplace)**: Realm or: How I Learned to Stop Worrying and Love my App Database - [Slides](http://www.slideshare.net/sergiandreplace/realm-or-how-i-learned-to-stop-worrying-and-love-my-app-database) - Video
 
