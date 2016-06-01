@@ -38,7 +38,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Julien Decot](https://twitter.com/zuzulapraline)**: The Mobile Ad Revolution - [Slides](https://www.appbuilders.ch/slides/TheMobileAdRevolution.pdf) - Video
 
-**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Being A Developer After 40 - [Slides](https://speakerdeck.com/akosma/being-a-developer-after-40) - [Blog Post](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.sf28dbyb0) - Video
+**[Adrian Kosmaczewski](http://twitter.com/akosma)**: Being A Developer After 40 - [Slides](https://speakerdeck.com/akosma/being-a-developer-after-40) - [Blog Post](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.sf28dbyb0) - [Video](http://blog.appbuilders.ch/2016/05/26/adrian-being-developer-after-40.html)
 
 ### 26th April
 
