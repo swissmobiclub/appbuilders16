@@ -22,7 +22,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Chris Lüscher](http://twitter.com/iA_Chris)**: iOS vs. Android: The Mobile OS Deathmatch - [Slides](#) - Video
 
-**[Marin Todorov](http://twitter.com/icanzilb)**: Non-technical ways to be a better developer - [Slides](https://speakerdeck.com/icanzilb/appbuilders-non-technical-ways-to-be-a-better-developer) - Video
+**[Marin Todorov](http://twitter.com/icanzilb)**: Non-technical ways to be a better developer - [Slides](https://speakerdeck.com/icanzilb/appbuilders-non-technical-ways-to-be-a-better-developer) - [Video](http://blog.appbuilders.ch/2016/06/02/marin.html)
 
 **[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](https://www.appbuilders.ch/slides/Building%20cross-platform%20mobile%20apps%20with%20Xamarin.pdf) - Video
 
