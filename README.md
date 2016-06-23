@@ -20,7 +20,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Etienne Studer](http://twitter.com/etiennestuder)**: Gradle and the Android Build Platform - [Slides](https://www.appbuilders.ch/slides/Gradle_AppBuilders_2016.pdf) - Video
 
-**[Chris Lüscher](http://twitter.com/iA_Chris)**: iOS vs. Android: The Mobile OS Deathmatch - [Slides](#) - Video
+**[Chris Lüscher](http://twitter.com/iA_Chris)**: iOS vs. Android: The Mobile OS Deathmatch - [Slides](https://www.appbuilders.ch/slides/ios_vs_android.pdf) - Video
 
 **[Marin Todorov](http://twitter.com/icanzilb)**: Non-technical ways to be a better developer - [Slides](https://speakerdeck.com/icanzilb/appbuilders-non-technical-ways-to-be-a-better-developer) - [Video](http://blog.appbuilders.ch/2016/06/02/marin.html)
 
