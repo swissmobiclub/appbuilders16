@@ -56,7 +56,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Damian Mehers](http://twitter.com/DamianMehers)**: When buzzwords collide: Combining Wearables and Virtual Reality on Android - [Slides](https://www.appbuilders.ch/slides/2016.04.26-When-buzzwords-collide-%20Wearables-and-VR.pdf) - Video
 
-**[Orta Therox](http://twitter.com/orta)**: Moving to OSS by Default - [Slides]() - Video
+**[Orta Therox](http://twitter.com/orta)**: Moving to OSS by Default - [Slides](https://speakerdeck.com/orta/moving-to-oss-by-default) - [Video](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
 
 **[Vitaly Friedman](https://twitter.com/smashingmag/)**: Cutting-Edge Responsive Web Design - [Slides](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end) - Video
 
