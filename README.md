@@ -10,7 +10,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Steve Scott](https://twitter.com/macdevnet)**: The Selfie Developer - [Slides](https://www.appbuilders.ch/slides/TheSelfieDeveloper.pdf) - Video
 
-**[Vikram Kriplaney](http://twitter.com/krips)** and **[Sebastian Vieira](http://twitter.com/seviu)**: Face-Off: iOS for Android Developers, Android for iOS Developers - [Slides](https://speakerdeck.com/seviu/face-off-android-vs-ios) - Video
+**[Vikram Kriplaney](http://twitter.com/krips)** and **[Sebastian Vieira](http://twitter.com/seviu)**: Face-Off: iOS for Android Developers, Android for iOS Developers - [Slides](https://speakerdeck.com/seviu/face-off-android-vs-ios) - [Video](https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/)
 
 **[Daniel Steinberg](https://twitter.com/dimsumthinking)**: The Open World of Swift 3 - [Slides](https://www.appbuilders.ch/slides/AppBuildersSteinbergOnSwift3.pdf) - Video
 
