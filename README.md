@@ -12,11 +12,11 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Vikram Kriplaney](http://twitter.com/krips)** and **[Sebastian Vieira](http://twitter.com/seviu)**: Face-Off: iOS for Android Developers, Android for iOS Developers - [Slides](https://speakerdeck.com/seviu/face-off-android-vs-ios) - [Video](https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/)
 
-**[Daniel Steinberg](https://twitter.com/dimsumthinking)**: The Open World of Swift 3 - [Slides](https://www.appbuilders.ch/slides/AppBuildersSteinbergOnSwift3.pdf) - Video
+**[Daniel Steinberg](https://twitter.com/dimsumthinking)**: The Open World of Swift 3 - [Slides](https://www.appbuilders.ch/slides/AppBuildersSteinbergOnSwift3.pdf) - [Video](https://realm.io/news/appbuilders-daniel-steinberg-whats-new-swift-3/)
 
 **[Cesar Valiente](http://twitter.com/CesarValiente)**: Refactoring Wunderlist for Android - [Slides](https://speakerdeck.com/cesarvaliente/refactoring-wunderlist-for-android-episode-i-the-presentation-layer) - Video
 
-**[JP Simard](https://twitter.com/simjp)**: SourceKit and You - [Slides](https://speakerdeck.com/jpsim/sourcekit-and-you) - Video
+**[JP Simard](https://twitter.com/simjp)**: SourceKit and You - [Slides](https://speakerdeck.com/jpsim/sourcekit-and-you) - [Video](https://realm.io/news/appbuilders-jp-simard-sourcekit/)
 
 **[Etienne Studer](http://twitter.com/etiennestuder)**: Gradle and the Android Build Platform - [Slides](https://www.appbuilders.ch/slides/Gradle_AppBuilders_2016.pdf) - Video
 
@@ -24,7 +24,7 @@ To give us a feedback and say what we can improve next year, please [open an iss
 
 **[Marin Todorov](http://twitter.com/icanzilb)**: Non-technical ways to be a better developer - [Slides](https://speakerdeck.com/icanzilb/appbuilders-non-technical-ways-to-be-a-better-developer) - [Video](http://blog.appbuilders.ch/2016/06/02/marin.html)
 
-**[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](https://www.appbuilders.ch/slides/Building%20cross-platform%20mobile%20apps%20with%20Xamarin.pdf) - Video
+**[Hajan Selmani](https://twitter.com/hajan_s)**: Building cross platform mobile apps with Xamarin - [Slides](https://www.appbuilders.ch/slides/Building%20cross-platform%20mobile%20apps%20with%20Xamarin.pdf) - [Video](https://realm.io/news/app-builders-hajan-selmani-cross-platform-mobile-development-xamarin/)
 
 **[Lorica Claesson](https://www.linkedin.com/pub/lorica-claesson/1/b12/348)**: Designing apps for Android - [Slides](http://www.slideshare.net/LoricaClaesson/designing-apps-for-android) - Video
 
